@@ -1,7 +1,1 @@
-Hallo Welt! :)
-
-ICh heiﬂe HArry PRotter irgendwie :D
-
-Dumbledore
-
-print('Hello World!')
+Lebe zufrieden und du wirst ein K√∂nig sein!
